@@ -1,2 +1,2 @@
 # Test-khill
-first repositort
+first repository
